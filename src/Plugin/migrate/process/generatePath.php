@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\pagina\Plugin\migrate\process;
+namespace Drupal\navigatio\Plugin\migrate\process;
 
 use Drupal\migrate\MigrateExecutableInterface;
 use Drupal\migrate\ProcessPluginBase;
