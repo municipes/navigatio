@@ -82,4 +82,4 @@ migration_dependencies: {  }
 dependencies:
   enforced:
     module:
-      - pagina
+      - navigatio
