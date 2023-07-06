@@ -3,7 +3,7 @@ description: Navigatĭo è un modulo Drupal che importa i menu utilizzati dai Co
 package: "Municipes"
 
 type: module
-core_version_requirement: ^10
+core_version_requirement: ^9.5 || ^10
 dependencies:
   - municipes:pagina
   - drupal:migrate
